@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author":"nubisub",
   "description":"This is description to explain to users",
+  "keywords":["freecodecamp","101","Beginner"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
