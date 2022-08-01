@@ -4,8 +4,10 @@
   "description":"This is description to explain to users",
   "keywords":["freecodecamp","101","Beginner"],
   "license":"MIT",
+  "version":"1.69",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+    "moment": "^2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
