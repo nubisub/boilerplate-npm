@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author":"nubisub",
+  "description":"This is description to explain to users",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
